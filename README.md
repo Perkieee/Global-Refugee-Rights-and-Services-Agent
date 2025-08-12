@@ -31,7 +31,7 @@ The current version focuses on **Kenya's Refugees General Regulations (2024)** b
 1. **Clone this repository** inside a Colab notebook:
 
 ```bash
-!git clone https://github.com/YOUR_USERNAME/Global-Refugee-Rights-and-Services-Agent
+!git clone https://github.com/Perkieee/Global-Refugee-Rights-and-Services-Agent
 .git
 %cd Global-Refugee-Rights-and-Services-Agent
 
