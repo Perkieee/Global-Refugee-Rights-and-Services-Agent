@@ -22,6 +22,7 @@ The current version focuses on **Kenya's Refugees General Regulations (2024)** b
 | `refugee_policy.ipynb`                      | Jupyter Notebook for development and testing in Google Colab. |
 | `app.py`                                    | Streamlit app to deploy the model with a web interface.       |
 | `THE-REFUGEES-GENERAL-REGULATIONS-2024.pdf` | Kenya Refugee Policy reference document.                      |
+|`requirements`                               | File containing all dependencies to run the app smoothly      |
 
 ---
 
