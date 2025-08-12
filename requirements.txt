@@ -1,0 +1,21 @@
+# Core AI & NLP Libraries
+langchain
+langchain-community
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+
+# Optional GPU acceleration (comment out if not using GPU)
+faiss-gpu
+
+# Model Optimization
+bitsandbytes
+accelerate
+
+# Web App
+streamlit
+pyngrok
+
+# Hugging Face Hub login
+huggingface_hub
