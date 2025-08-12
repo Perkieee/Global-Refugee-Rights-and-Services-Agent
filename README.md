@@ -22,7 +22,7 @@ The current version focuses on **Kenya's Refugees General Regulations (2024)** b
 | `refugee_policy.ipynb`                      | Jupyter Notebook for development and testing in Google Colab. |
 | `app.py`                                    | Streamlit app to deploy the model with a web interface.       |
 | `THE-REFUGEES-GENERAL-REGULATIONS-2024.pdf` | Kenya Refugee Policy reference document.                      |
-|`requirements`                               | File containing all dependencies to run the app smoothly      |
+|`requirements.txt`                           | File containing all dependencies to run the app smoothly      |
 
 ---
 
@@ -31,8 +31,10 @@ The current version focuses on **Kenya's Refugees General Regulations (2024)** b
 1. **Clone this repository** inside a Colab notebook:
 
 ```bash
-!git clone https://github.com/YOUR_USERNAME/refugee-policy-assistant.git
-%cd refugee-policy-assistant
+!git clone https://github.com/YOUR_USERNAME/Global-Refugee-Rights-and-Services-Agent
+.git
+%cd Global-Refugee-Rights-and-Services-Agent
+
 ```
 
 2. **Open `refugee_policy.ipynb`** and follow the steps to:
